@@ -1,4 +1,5 @@
 From [Turing School Lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown)
+
 ---
 title: Intro to Git & Github
 length: 180
